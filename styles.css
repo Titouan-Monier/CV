@@ -1,0 +1,39 @@
+#cv-content { 
+	display: flex;
+	justify-content: center;	
+}
+
+#parcours {
+	width: 750px;
+}
+#profile-picture-link{
+	display: flex;
+	justify-content: center;
+}
+
+.vertical-line {
+	border-left: 2px solid #80c1ff;
+ 	margin-left: 40px;
+  	margin-right: 40px; 	 
+}
+
+h2 {	
+	border: 2px #80c1ff solid;
+	padding-left: 10px;
+
+}
+
+#page {
+	width: 1000px;
+	background-color: #f9f9f9;
+	padding: 0px 50px 50px 50px;
+
+
+}
+body {
+	justify-content: center;
+	display: flex
+}
+
+
+
