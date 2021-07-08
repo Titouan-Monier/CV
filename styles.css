@@ -6,6 +6,7 @@
 #parcours {
 	width: 750px;
 }
+
 #profile-picture-link{
 	display: flex;
 	justify-content: center;
@@ -20,16 +21,15 @@
 h2 {	
 	border: 2px #80c1ff solid;
 	padding-left: 10px;
-
 }
 
 #page {
 	width: 1000px;
 	background-color: #f9f9f9;
 	padding: 0px 50px 50px 50px;
-
-
+	box-shadow: 0px 0px 75px #b2b2b2;
 }
+
 body {
 	justify-content: center;
 	display: flex
